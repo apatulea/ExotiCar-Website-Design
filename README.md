@@ -1,9 +1,9 @@
 ## ExotiCar-Website-Design
 
-#### Created with HTML and CSS 
-#### Home page design only , done after mockup 
+#### Created with HTML and CSS. 
+#### Home page design only, done after mockup. 
 
-Github Pages link: https://apatulea.github.io/Responsive-Website-Template/
+Github Pages link: https://apatulea.github.io/ExotiCar-Website-Design/
 
 
 
